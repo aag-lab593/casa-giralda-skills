@@ -1,0 +1,4 @@
+interface:
+  display_name: "Auditor de Marketing Casa Giralda"
+  short_description: "Audita TikTok, Instagram y web cada mes."
+  default_prompt: "Analiza el desempeño mensual de TikTok, Instagram y la web de Casa Giralda, identifica qué funcionó y propone cambios para el siguiente mes."
